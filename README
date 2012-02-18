@@ -10,3 +10,8 @@ Example: An array of 11 letter "0"s
 11io,<Esc>x
 ```
 Basically its the same as outputting a certain amount of characters, just hitting x at the end to take out the last character.
+
+Search and Replace 
+  * :%s/foo/bar/g (% searches all lines, without % searches current line) 
+    Find each occurrence of 'foo', and replace it with 'bar'
+  * :%s/foo/bar/gc
