@@ -1,13 +1,15 @@
 Adding an item a certain amount of times
 Example: Css comments /***/. Display 20 * across
+
 ```
-20i*<Esc>
+  20i*<Esc>
 ```
 
 Adding an item a certain amount of times separated by a charcter
 Example: An array of 11 letter "0"s
+
 ```
-11io,<Esc>x
+  11io,<Esc>x
 ```
 Basically its the same as outputting a certain amount of characters, just hitting x at the end to take out the last character.
 
